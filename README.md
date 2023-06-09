@@ -1,4 +1,4 @@
-# tshirtwebsite
+# Tshirt website
 User can change the logo and tshirt by adjusting the color palette or by uploading a file. User can also use AI to get logo images in the website.
 The website can be used to make custom tshirts.
 
